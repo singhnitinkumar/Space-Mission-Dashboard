@@ -1,5 +1,6 @@
-#Space-Mission-Dashboard
-Tableau project for analyzing Space Mission data and visualizing the findings including
+# Space-Mission-Dashboard  
+
+Tableau project for analyzing Space Mission data and visualizing the findings including  
 
 What are the average temperature details of the launch sites?
 
